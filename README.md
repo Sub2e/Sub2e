@@ -11,12 +11,6 @@
 
 ---
 
-## 📊 GitHub 통계
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhyeongseop&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhyeongseop&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 연락
 [![Gmail](https://img.shields.io/badge/Email-b2goun%40gmail.com-red?logo=gmail)](mailto:b2goun@gmail.com)
