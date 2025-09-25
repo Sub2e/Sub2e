@@ -10,3 +10,7 @@
 
 ## 📫 연락
 - Email: only5ne@naver.com
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Spring Badge](https://img.shields.io/badge/SpringBoot-2.7-green?logo=spring)
+![MySQL Badge](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql)
